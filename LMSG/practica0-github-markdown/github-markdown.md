@@ -1,6 +1,6 @@
 # Pràctica 1: Característiques dels llenguatges de marques
 
-## Descripció
+# Descripció
 
 * **Objectiu:** Aprofundir i posar en pràctica els coneixements adquirits sobre l'ús i les característiques principals dels llenguatges de marques.
 * **Desenvolupament:** En parelles.
@@ -31,7 +31,7 @@ Un cop hàgiu acabat, prepareu una presentació per a explicar el següent:
 
 ## Rúbrica d’avaluació
 
-> ⚠️ **Atenció:** L’incompliment de les instruccions de lliurament impliquen la **NO correcció** de la pràctica i una nota de **0 punts**. Cal seguir totes les instruccions estrictament al peu de la lletra.
+>  **Atenció:** L’incompliment de les instruccions de lliurament impliquen la **NO correcció** de la pràctica i una nota de **0 punts**. Cal seguir totes les instruccions estrictament al peu de la lletra.
 
 | Criteri d'avaluació | 0 punts | 0,5 punts | 1 punt |
 | :--- | :--- | :--- | :--- |
